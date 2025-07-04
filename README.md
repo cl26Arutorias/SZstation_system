@@ -24,7 +24,7 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
 
 ### 主体设计（流程图）
 
-![.\images\图片5.png](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%875.png)
+![流程图](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%875.png)
 
 ### 主要文件说明
 
@@ -57,14 +57,14 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
   * 功能：管理地铁线路和站点数据
 
 ### 运行界面展示
+![图片4](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%874.png)
 
-![图片1]([.\images\图片4.png](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%874.png?raw=true))
+![图片1](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%871.png)
 
-![图片2]([.\images\图片1.png])
+![图片2](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%872.png)
 
-![图3]([.\images\图片2.png])
+![图片3](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%873.png)
 
-![图片4]([.\images\图片3.png])
 
 
 
