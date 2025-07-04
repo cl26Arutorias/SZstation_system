@@ -24,7 +24,7 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
 
 ### 主体设计（流程图）
 
-![image-20250704124447025](C:\Users\cl26\AppData\Roaming\Typora\typora-user-images\image-20250704124447025.png)
+![图片5](.\images\图片5.png)
 
 ### 主要文件说明
 
@@ -58,13 +58,13 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
 
 ### 运行界面展示
 
-![image-20250704130541137](C:\Users\cl26\AppData\Roaming\Typora\typora-user-images\image-20250704130541137.png)
+![图片1](.\images\图片4.png)
 
-![image-20250704130547636](C:\Users\cl26\AppData\Roaming\Typora\typora-user-images\image-20250704130547636.png)
+![图片2](.\images\图片1.png)
 
-![image-20250704130553246](C:\Users\cl26\AppData\Roaming\Typora\typora-user-images\image-20250704130553246.png)
+![图3](.\images\图片2.png)
 
-![image-20250704130600717](C:\Users\cl26\AppData\Roaming\Typora\typora-user-images\image-20250704130600717.png)
+![图片4](.\images\图片3.png)
 
 
 
@@ -103,4 +103,8 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
 ### 版权说明
 
 * 选站界面的地图引用自https://railmapgen.github.io/?app=rmp-gallery
-* 其余一切代码、图片等均为本人所有，未经允许禁止引用# SZstation_system
+* 其余一切代码、图片等均为本人所有，未经允许禁止引用
+
+### 源码链接
+
+https://github.com/cl26Arutorias/SZstation_system
