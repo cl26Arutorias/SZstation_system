@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/mapwindow.o
+debug/page_welcome.o
+debug/sale.o
+debug/qrc_rsc.o
+debug/moc_mainwindow.o
+debug/moc_mapwindow.o
+debug/moc_page_welcome.o
+debug/moc_sale.o

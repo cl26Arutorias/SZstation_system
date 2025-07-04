@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="img" prefix="/maps">
+        <file>C:/Users/cl26/Desktop/STATIon/Simulate_Shenzhen_Subway_Ticketing_System/Shenzhen_metro_ticket_sale_system/image/shenzhen.png</file>
+        <file>shenzhen.png</file>
+    </qresource>
+    <qresource prefix="/maps"/>
+</RCC>

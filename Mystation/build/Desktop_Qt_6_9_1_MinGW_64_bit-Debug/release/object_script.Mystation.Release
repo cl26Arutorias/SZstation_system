@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/mapwindow.o
+release/page_welcome.o
+release/sale.o
+release/qrc_rsc.o
+release/moc_mainwindow.o
+release/moc_mapwindow.o
+release/moc_page_welcome.o
+release/moc_sale.o
