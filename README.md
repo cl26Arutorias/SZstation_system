@@ -24,7 +24,7 @@ Sale类：在线售票窗口，具有选择线路、站点等信息
 
 ### 主体设计（流程图）
 
-![图片5]([.\images\图片5.png](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%875.png?raw=true))
+![图片5]([[.\images\图片5.png](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%875.png?raw=true)](https://github.com/cl26Arutorias/SZstation_system/blob/main/images/%E5%9B%BE%E7%89%875.png))
 
 ### 主要文件说明
 
